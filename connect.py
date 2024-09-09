@@ -1,6 +1,6 @@
 
-
-printt('ok')
+print('corrected')
+#printt('ok') #used this line to send an automated email when an build fails.
 
 print("automatically update on vm when changed.")
 
